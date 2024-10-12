@@ -1,0 +1,2 @@
+Este é o link para fazer download da API do vosk
+https://alphacephei.com/vosk/models
